@@ -1,0 +1,17 @@
+#div4{
+    font-size: 20px;
+    color: crimson;
+    border: 1px solid red;
+    border-color: black;
+    margin-left: 590px;
+}
+#div5{
+    font-size: 23px;
+    color: crimson;
+    border: 1px solid green;
+    border-color: black;
+    margin-left: 40px; 
+}
+table{
+    border-left-color: ivory;
+}

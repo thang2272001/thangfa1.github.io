@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+#div1{
+    background-color: salmon;
+    width: 100px;
+    height: 100px;
+    
+}
+#div2{
+    background-color: springgreen;
+    /* width: 100px;
+    height: 100px; */
+    margin-left: 100px;
+    margin-top: 15px;
+    padding-left: 20px;
+    border-color: tomato;
+
+}
+#div3{
+    background-color: thistle;
+    margin-left: 170px;
+    margin-top: -42px;
+}
+#div4{
+    border: 10px;
+    font-size: 15px;
+    background-color: tomato;
+    line-height: 27px;
+    width: 70px;
+    padding: 3px 5px;
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    
+}
+#div5{
+    font-size: 15px;
+    background-color: blue;
+    line-height: 27px;
+    width: 70px;
+    margin-left: 30px;
+    padding: 3px 5px;
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+}
+

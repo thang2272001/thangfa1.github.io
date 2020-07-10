@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+#myboder{
+    width: 100px;
+    height: 100px;
+    background-color: sandybrown;
+    border: 10px solid red;
+    border-right-color: royalblue;
+    border-radius: 100px;
+
+}
+#myborder{
+    width: 100px;
+    height: 100px;
+    background-color: sandybrown;
+    border: 10px solid red;
+    border-right-color: royalblue;
+    margin-left: 200px;
+    margin-top: -10px;
+}
